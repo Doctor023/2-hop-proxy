@@ -117,7 +117,7 @@ ctrl + X - выходим из документа
 <img width="332" height="335" alt="image" src="https://github.com/user-attachments/assets/0e960bb2-827d-4468-a5b5-b17c6f097220" />
 
 
-12. Заполняем по форме
+12. Заполняем по форме (только вместо google www.bing.com)
 
 <img width="816" height="559" alt="image" src="https://github.com/user-attachments/assets/306c8f04-5c47-4663-aa53-6b172e0c1ede" />
 
