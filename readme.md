@@ -110,32 +110,6 @@ ctrl + X - выходим из документа
 
 Если Active: `active (running)`, значит все ок
 
-Устанавливаем nekobox https://github.com/MatsuriDayo/nekoray/releases
-
-Открываем nekobox, ПКМ по свободному полю и выбираем создать новый профиль
-
-<img width="332" height="335" alt="image" src="https://github.com/user-attachments/assets/0e960bb2-827d-4468-a5b5-b17c6f097220" />
-
-
-12. Заполняем по форме (только вместо google www.bing.com)
-
-<img width="816" height="559" alt="image" src="https://github.com/user-attachments/assets/306c8f04-5c47-4663-aa53-6b172e0c1ede" />
-
-Помните, что 1 профиль = одно подключение. Т.е. одновременно подключиться к нему может только 1 устройство, каждый профиль имеет уникальный UUID
-
-13. Чтобы включить VPN устанавливаем 2 галочки
-<img width="282" height="83" alt="image" src="https://github.com/user-attachments/assets/dcadf973-1302-4395-aa37-effc11bb3867" />
-
-
-ПКМ по строке подключения и запускаем
-
-<img width="447" height="339" alt="image" src="https://github.com/user-attachments/assets/e225cda6-2035-469b-ac8f-46f5a53bcb3f" />
-
-
-14. Проверяем на 2ip.ru получили ли мы иностранный IP адрес, если видим иностранный, значит VPN работает
-
-15. Nekoray позволяет скопировать конфиг, можно либо скопировать ссылку и вставить в другой клиент, либо отсканировать QR код с телефона во VLESS клиенте, например, V2BOX
-    <img width="872" height="413" alt="image" src="https://github.com/user-attachments/assets/1aeb2d62-a2a9-4325-a758-267fb7293e66" />
 
 Инструкция по настройке VK Cloud/ Yandex Cloud:
 
@@ -225,6 +199,34 @@ ctrl + X - выходим из документа
  }
 
 ```
+
+Устанавливаем nekobox https://github.com/MatsuriDayo/nekoray/releases
+
+Открываем nekobox, ПКМ по свободному полю и выбираем создать новый профиль
+
+<img width="332" height="335" alt="image" src="https://github.com/user-attachments/assets/0e960bb2-827d-4468-a5b5-b17c6f097220" />
+
+
+12. Заполняем по форме (только вместо google www.bing.com)
+
+<img width="816" height="559" alt="image" src="https://github.com/user-attachments/assets/306c8f04-5c47-4663-aa53-6b172e0c1ede" />
+
+Помните, что 1 профиль = одно подключение. Т.е. одновременно подключиться к нему может только 1 устройство, каждый профиль имеет уникальный UUID
+
+13. Чтобы включить VPN устанавливаем 2 галочки
+<img width="282" height="83" alt="image" src="https://github.com/user-attachments/assets/dcadf973-1302-4395-aa37-effc11bb3867" />
+
+
+ПКМ по строке подключения и запускаем
+
+<img width="447" height="339" alt="image" src="https://github.com/user-attachments/assets/e225cda6-2035-469b-ac8f-46f5a53bcb3f" />
+
+
+14. Проверяем на 2ip.ru получили ли мы иностранный IP адрес, если видим иностранный, значит VPN работает
+
+15. Nekoray позволяет скопировать конфиг, можно либо скопировать ссылку и вставить в другой клиент, либо отсканировать QR код с телефона во VLESS клиенте, например, V2BOX
+    <img width="872" height="413" alt="image" src="https://github.com/user-attachments/assets/1aeb2d62-a2a9-4325-a758-267fb7293e66" />
+
 Как добавить несколько точек подключений?
 
 Помним, что один uuid - это одна точка подключения, вы не можете сидеть с одного идентификатора с пк и с телефона, ровно так же, как и вы и ваш друг не сможете сидеть с двух пк по одному идентификатору одновременно
